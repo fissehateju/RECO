@@ -1,0 +1,143 @@
+﻿<UserControl x:Class="RR.Dataplane.Sensor"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             MouseEnter="UserControl_MouseEnter"
+             MouseLeave="UserControl_MouseLeave"
+             d:DesignHeight="100" d:DesignWidth="100">
+
+
+    <Grid 
+        Name="Device_Sensor"
+        MouseDown="Device_Sensor_MouseDown"
+        MouseMove="Device_Sensor_MouseMove"
+        MouseUp="Device_Sensor_MouseUp"
+        >
+        <Grid.ContextMenu>
+            <ContextMenu>
+                <Label MouseDown="btn_send_packet_MouseDown" Name="btn_report_sink_test">
+                    set as a source
+                </Label>
+
+                <Label MouseDown="Btn_see_distrubutions_MouseDown" Name="btn_see_distrubutions">
+                    See Distrubutions
+                </Label>
+            </ContextMenu>
+        </Grid.ContextMenu>
+
+        <Ellipse 
+            Name="Ellipse_Communication_range" 
+            VerticalAlignment="Center" 
+            HorizontalAlignment="Center" 
+            Width="50" 
+            Height="50" 
+            StrokeDashArray="2"
+            Visibility="Hidden"
+            Stroke="Black"/>
+        
+        <Ellipse 
+            Name="Ellipse_Sensing_range" 
+            VerticalAlignment="Center" 
+            HorizontalAlignment="Center" 
+            Width="25" 
+            Height="25" 
+            Visibility="Hidden"
+            StrokeDashArray="0.3"
+            Stroke="Black"/>
+
+        <Ellipse 
+            Name="Ellipse_nodeTypeIndicator"
+            VerticalAlignment="Center"
+            HorizontalAlignment="Center"
+            MouseEnter="Ellipse_center_MouseEnter"
+            Fill="Transparent"
+            Width="20" 
+            Height="20" 
+            StrokeDashArray="0.1"
+            Stroke="Transparent">
+        </Ellipse>
+
+        <Ellipse 
+            Name="Ellipse_headerIndicator"
+            VerticalAlignment="Center"
+            HorizontalAlignment="Center"
+            Visibility="Hidden"
+            StrokeThickness="1"
+            Width="23" 
+            Height="23" 
+            Stroke="Red">
+        </Ellipse>
+        
+        <Ellipse 
+            Name="Ellipse_indicator"
+            VerticalAlignment="Center"
+            HorizontalAlignment="Center"
+            Visibility="Hidden"
+            MouseEnter="Ellipse_center_MouseEnter"
+            Fill="SkyBlue"
+            Width="20" 
+            Height="20" 
+            Stroke="Black">
+        </Ellipse>
+        <Ellipse 
+            
+            Name="Ellipse_battryIndicator"
+            VerticalAlignment="Center"
+            HorizontalAlignment="Center"
+            MouseEnter="Ellipse_center_MouseEnter"
+            Fill="Gray"
+            Width="16" 
+            Height="16" 
+            StrokeDashArray="0.5"
+            Stroke="Red">
+        </Ellipse>
+
+      
+        
+        <Ellipse 
+            Name="Ellipse_MAC"
+            VerticalAlignment="Center"
+            HorizontalAlignment="Center"
+            MouseEnter="Ellipse_center_MouseEnter"
+            Fill="SeaGreen"
+            Width="10" 
+            Height="10" 
+             StrokeDashArray="0.5"
+            Stroke="Black">
+        </Ellipse>
+
+       
+
+        <Label
+            VerticalAlignment="Center" 
+            HorizontalAlignment="Center"
+            MouseEnter="lbl_MouseEnter"
+            Visibility="Visible"
+            FontSize="10"
+            Margin="0,-20,0,0"
+            Name="lbl_Sensing_ID"
+            FontWeight="DemiBold"
+            Content="10"
+            />
+
+
+        <ProgressBar
+            VerticalAlignment="Center" 
+            BorderThickness="0.6"
+            BorderBrush="Black"
+            HorizontalAlignment="Center"
+            Margin="0,20,0,0"
+            Visibility="Collapsed"
+            Name="Prog_batteryCapacityNotation"
+            ValueChanged="Prog_batteryCapacityNotation_ValueChanged"
+            Height="7"
+            Width="20"
+            />
+
+
+    </Grid>
+    
+    
+</UserControl>
