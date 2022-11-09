@@ -1,0 +1,244 @@
+D:\USTC\Wireless Charger\WC on Ring Routing\bin\Debug\RR.exe.config
+D:\USTC\Wireless Charger\WC on Ring Routing\bin\Debug\RR.exe
+D:\USTC\Wireless Charger\WC on Ring Routing\bin\Debug\RR.pdb
+D:\USTC\Wireless Charger\WC on Ring Routing\obj\Debug\RECO.csproj.AssemblyReference.cache
+D:\USTC\Wireless Charger\WC on Ring Routing\obj\Debug\RECO.csproj.SuggestedBindingRedirects.cache
+D:\USTC\Wireless Charger\WC on Ring Routing\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\USTC\Wireless Charger\WC on Ring Routing\obj\Debug\RECO.csproj.ResolveComReference.cache
+D:\USTC\Wireless Charger\WC on Ring Routing\obj\Debug\Dataplane\BaseStation.baml
+D:\USTC\Wireless Charger\WC on Ring Routing\obj\Debug\Dataplane\Sink.baml
+D:\USTC\Wireless Charger\WC on Ring Routing\obj\Debug\ExpermentsResults\Energy consumptions\ExpReport.baml
+D:\USTC\Wireless Charger\WC on Ring Routing\obj\Debug\ExpermentsResults\Energy consumptions\Experments.baml
+D:\USTC\Wireless Charger\WC on Ring Routing\obj\Debug\Dataplane\Sensor.baml
+D:\USTC\Wireless Charger\WC on Ring Routing\obj\Debug\ui\conts\ListControl.baml
+D:\USTC\Wireless Charger\WC on Ring Routing\obj\Debug\ui\MainWindow.baml
+D:\USTC\Wireless Charger\WC on Ring Routing\obj\Debug\db\NetwokImport.baml
+D:\USTC\Wireless Charger\WC on Ring Routing\obj\Debug\ui\UiAddNodes.baml
+D:\USTC\Wireless Charger\WC on Ring Routing\obj\Debug\db\UiExportTopology.baml
+D:\USTC\Wireless Charger\WC on Ring Routing\obj\Debug\db\UiImportTopology.baml
+D:\USTC\Wireless Charger\WC on Ring Routing\obj\Debug\ui\UIExpermentResults.baml
+D:\USTC\Wireless Charger\WC on Ring Routing\obj\Debug\ui\UiRandomNumberGeneration.baml
+D:\USTC\Wireless Charger\WC on Ring Routing\obj\Debug\ui\UiRecievedPackertsBySink.baml
+D:\USTC\Wireless Charger\WC on Ring Routing\obj\Debug\ui\UiRoutingDetailsLong.baml
+D:\USTC\Wireless Charger\WC on Ring Routing\obj\Debug\ui\UiSelectNodesWidthDistance.baml
+D:\USTC\Wireless Charger\WC on Ring Routing\obj\Debug\ui\UiShowLists.baml
+D:\USTC\Wireless Charger\WC on Ring Routing\obj\Debug\ui\UiShowRelatives.baml
+D:\USTC\Wireless Charger\WC on Ring Routing\obj\Debug\ui\UIshowSensorsLocations.baml
+D:\USTC\Wireless Charger\WC on Ring Routing\obj\Debug\Dataplane\BaseStation.g.cs
+D:\USTC\Wireless Charger\WC on Ring Routing\obj\Debug\Dataplane\Charger.g.cs
+D:\USTC\Wireless Charger\WC on Ring Routing\obj\Debug\Dataplane\Sink.g.cs
+D:\USTC\Wireless Charger\WC on Ring Routing\obj\Debug\ExpermentsResults\Energy consumptions\ExpReport.g.cs
+D:\USTC\Wireless Charger\WC on Ring Routing\obj\Debug\ExpermentsResults\Energy consumptions\Experments.g.cs
+D:\USTC\Wireless Charger\WC on Ring Routing\obj\Debug\Dataplane\Sensor.g.cs
+D:\USTC\Wireless Charger\WC on Ring Routing\obj\Debug\RingRouting\Ring.g.cs
+D:\USTC\Wireless Charger\WC on Ring Routing\obj\Debug\ui\conts\ListControl.g.cs
+D:\USTC\Wireless Charger\WC on Ring Routing\obj\Debug\ui\MainWindow.g.cs
+D:\USTC\Wireless Charger\WC on Ring Routing\obj\Debug\db\NetwokImport.g.cs
+D:\USTC\Wireless Charger\WC on Ring Routing\obj\Debug\ui\UiAddNodes.g.cs
+D:\USTC\Wireless Charger\WC on Ring Routing\obj\Debug\db\UiExportTopology.g.cs
+D:\USTC\Wireless Charger\WC on Ring Routing\obj\Debug\db\UiImportTopology.g.cs
+D:\USTC\Wireless Charger\WC on Ring Routing\obj\Debug\ui\UIExpermentResults.g.cs
+D:\USTC\Wireless Charger\WC on Ring Routing\obj\Debug\ui\UiRandomNumberGeneration.g.cs
+D:\USTC\Wireless Charger\WC on Ring Routing\obj\Debug\ui\UiRecievedPackertsBySink.g.cs
+D:\USTC\Wireless Charger\WC on Ring Routing\obj\Debug\ui\UiRoutingDetailsLong.g.cs
+D:\USTC\Wireless Charger\WC on Ring Routing\obj\Debug\ui\UiSelectNodesWidthDistance.g.cs
+D:\USTC\Wireless Charger\WC on Ring Routing\obj\Debug\ui\UiShowLists.g.cs
+D:\USTC\Wireless Charger\WC on Ring Routing\obj\Debug\ui\UiShowRelatives.g.cs
+D:\USTC\Wireless Charger\WC on Ring Routing\obj\Debug\ui\UiShowRelativityForAnode.g.cs
+D:\USTC\Wireless Charger\WC on Ring Routing\obj\Debug\ui\UIshowSensorsLocations.g.cs
+D:\USTC\Wireless Charger\WC on Ring Routing\obj\Debug\App.g.cs
+D:\USTC\Wireless Charger\WC on Ring Routing\obj\Debug\RR_MarkupCompile.cache
+D:\USTC\Wireless Charger\WC on Ring Routing\obj\Debug\RR_MarkupCompile.lref
+D:\USTC\Wireless Charger\WC on Ring Routing\obj\Debug\Dataplane\Charger.baml
+D:\USTC\Wireless Charger\WC on Ring Routing\obj\Debug\RingRouting\Ring.baml
+D:\USTC\Wireless Charger\WC on Ring Routing\obj\Debug\ui\UiShowRelativityForAnode.baml
+D:\USTC\Wireless Charger\WC on Ring Routing\obj\Debug\RR.g.resources
+D:\USTC\Wireless Charger\WC on Ring Routing\obj\Debug\RR.Properties.Resources.resources
+D:\USTC\Wireless Charger\WC on Ring Routing\obj\Debug\RECO.csproj.GenerateResource.cache
+D:\USTC\Wireless Charger\WC on Ring Routing\obj\Debug\RECO.csproj.CoreCompileInputs.cache
+D:\USTC\Wireless Charger\WC on Ring Routing\obj\Debug\RECO.csproj.CopyComplete
+D:\USTC\Wireless Charger\WC on Ring Routing\obj\Debug\RR.exe
+D:\USTC\Wireless Charger\WC on Ring Routing\obj\Debug\RR.pdb
+D:\USTC\Wireless Charger\RECO_Alg\bin\Debug\RR.exe.config
+D:\USTC\Wireless Charger\RECO_Alg\bin\Debug\RR.exe
+D:\USTC\Wireless Charger\RECO_Alg\bin\Debug\RR.pdb
+D:\USTC\Wireless Charger\RECO_Alg\obj\Debug\RECO.csproj.AssemblyReference.cache
+D:\USTC\Wireless Charger\RECO_Alg\obj\Debug\RECO.csproj.SuggestedBindingRedirects.cache
+D:\USTC\Wireless Charger\RECO_Alg\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\USTC\Wireless Charger\RECO_Alg\obj\Debug\RECO.csproj.ResolveComReference.cache
+D:\USTC\Wireless Charger\RECO_Alg\obj\Debug\Dataplane\BaseStation.baml
+D:\USTC\Wireless Charger\RECO_Alg\obj\Debug\Dataplane\Sink.baml
+D:\USTC\Wireless Charger\RECO_Alg\obj\Debug\ExpermentsResults\Energy consumptions\ExpReport.baml
+D:\USTC\Wireless Charger\RECO_Alg\obj\Debug\ExpermentsResults\Energy consumptions\Experments.baml
+D:\USTC\Wireless Charger\RECO_Alg\obj\Debug\Dataplane\Sensor.baml
+D:\USTC\Wireless Charger\RECO_Alg\obj\Debug\ui\conts\ListControl.baml
+D:\USTC\Wireless Charger\RECO_Alg\obj\Debug\ui\MainWindow.baml
+D:\USTC\Wireless Charger\RECO_Alg\obj\Debug\db\NetwokImport.baml
+D:\USTC\Wireless Charger\RECO_Alg\obj\Debug\ui\UiAddNodes.baml
+D:\USTC\Wireless Charger\RECO_Alg\obj\Debug\db\UiExportTopology.baml
+D:\USTC\Wireless Charger\RECO_Alg\obj\Debug\db\UiImportTopology.baml
+D:\USTC\Wireless Charger\RECO_Alg\obj\Debug\ui\UIExpermentResults.baml
+D:\USTC\Wireless Charger\RECO_Alg\obj\Debug\ui\UiRandomNumberGeneration.baml
+D:\USTC\Wireless Charger\RECO_Alg\obj\Debug\ui\UiRecievedPackertsBySink.baml
+D:\USTC\Wireless Charger\RECO_Alg\obj\Debug\ui\UiRoutingDetailsLong.baml
+D:\USTC\Wireless Charger\RECO_Alg\obj\Debug\ui\UiSelectNodesWidthDistance.baml
+D:\USTC\Wireless Charger\RECO_Alg\obj\Debug\ui\UiShowLists.baml
+D:\USTC\Wireless Charger\RECO_Alg\obj\Debug\ui\UiShowRelatives.baml
+D:\USTC\Wireless Charger\RECO_Alg\obj\Debug\ui\UIshowSensorsLocations.baml
+D:\USTC\Wireless Charger\RECO_Alg\obj\Debug\Dataplane\BaseStation.g.cs
+D:\USTC\Wireless Charger\RECO_Alg\obj\Debug\Dataplane\Charger.g.cs
+D:\USTC\Wireless Charger\RECO_Alg\obj\Debug\Dataplane\Sink.g.cs
+D:\USTC\Wireless Charger\RECO_Alg\obj\Debug\ExpermentsResults\Energy consumptions\ExpReport.g.cs
+D:\USTC\Wireless Charger\RECO_Alg\obj\Debug\ExpermentsResults\Energy consumptions\Experments.g.cs
+D:\USTC\Wireless Charger\RECO_Alg\obj\Debug\Dataplane\Sensor.g.cs
+D:\USTC\Wireless Charger\RECO_Alg\obj\Debug\RingRouting\Ring.g.cs
+D:\USTC\Wireless Charger\RECO_Alg\obj\Debug\ui\conts\ListControl.g.cs
+D:\USTC\Wireless Charger\RECO_Alg\obj\Debug\ui\MainWindow.g.cs
+D:\USTC\Wireless Charger\RECO_Alg\obj\Debug\db\NetwokImport.g.cs
+D:\USTC\Wireless Charger\RECO_Alg\obj\Debug\ui\UiAddNodes.g.cs
+D:\USTC\Wireless Charger\RECO_Alg\obj\Debug\db\UiExportTopology.g.cs
+D:\USTC\Wireless Charger\RECO_Alg\obj\Debug\db\UiImportTopology.g.cs
+D:\USTC\Wireless Charger\RECO_Alg\obj\Debug\ui\UIExpermentResults.g.cs
+D:\USTC\Wireless Charger\RECO_Alg\obj\Debug\ui\UiRandomNumberGeneration.g.cs
+D:\USTC\Wireless Charger\RECO_Alg\obj\Debug\ui\UiRecievedPackertsBySink.g.cs
+D:\USTC\Wireless Charger\RECO_Alg\obj\Debug\ui\UiRoutingDetailsLong.g.cs
+D:\USTC\Wireless Charger\RECO_Alg\obj\Debug\ui\UiSelectNodesWidthDistance.g.cs
+D:\USTC\Wireless Charger\RECO_Alg\obj\Debug\ui\UiShowLists.g.cs
+D:\USTC\Wireless Charger\RECO_Alg\obj\Debug\ui\UiShowRelatives.g.cs
+D:\USTC\Wireless Charger\RECO_Alg\obj\Debug\ui\UiShowRelativityForAnode.g.cs
+D:\USTC\Wireless Charger\RECO_Alg\obj\Debug\ui\UIshowSensorsLocations.g.cs
+D:\USTC\Wireless Charger\RECO_Alg\obj\Debug\App.g.cs
+D:\USTC\Wireless Charger\RECO_Alg\obj\Debug\RR_MarkupCompile.cache
+D:\USTC\Wireless Charger\RECO_Alg\obj\Debug\RR_MarkupCompile.lref
+D:\USTC\Wireless Charger\RECO_Alg\obj\Debug\Dataplane\Charger.baml
+D:\USTC\Wireless Charger\RECO_Alg\obj\Debug\RingRouting\Ring.baml
+D:\USTC\Wireless Charger\RECO_Alg\obj\Debug\ui\UiShowRelativityForAnode.baml
+D:\USTC\Wireless Charger\RECO_Alg\obj\Debug\RR.g.resources
+D:\USTC\Wireless Charger\RECO_Alg\obj\Debug\RR.Properties.Resources.resources
+D:\USTC\Wireless Charger\RECO_Alg\obj\Debug\RECO.csproj.GenerateResource.cache
+D:\USTC\Wireless Charger\RECO_Alg\obj\Debug\RECO.csproj.CoreCompileInputs.cache
+D:\USTC\Wireless Charger\RECO_Alg\obj\Debug\RECO.csproj.CopyComplete
+D:\USTC\Wireless Charger\RECO_Alg\obj\Debug\RR.exe
+D:\USTC\Wireless Charger\RECO_Alg\obj\Debug\RR.pdb
+D:\USTC\Wireless Charger\WSN_RECO_Alg\bin\Debug\RR.exe.config
+D:\USTC\Wireless Charger\WSN_RECO_Alg\bin\Debug\RR.exe
+D:\USTC\Wireless Charger\WSN_RECO_Alg\bin\Debug\RR.pdb
+D:\USTC\Wireless Charger\WSN_RECO_Alg\obj\Debug\RECO.csproj.AssemblyReference.cache
+D:\USTC\Wireless Charger\WSN_RECO_Alg\obj\Debug\RECO.csproj.SuggestedBindingRedirects.cache
+D:\USTC\Wireless Charger\WSN_RECO_Alg\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\USTC\Wireless Charger\WSN_RECO_Alg\obj\Debug\RECO.csproj.ResolveComReference.cache
+D:\USTC\Wireless Charger\WSN_RECO_Alg\obj\Debug\Dataplane\BaseStation.baml
+D:\USTC\Wireless Charger\WSN_RECO_Alg\obj\Debug\Dataplane\Sink.baml
+D:\USTC\Wireless Charger\WSN_RECO_Alg\obj\Debug\ExpermentsResults\Energy consumptions\ExpReport.baml
+D:\USTC\Wireless Charger\WSN_RECO_Alg\obj\Debug\ExpermentsResults\Energy consumptions\Experments.baml
+D:\USTC\Wireless Charger\WSN_RECO_Alg\obj\Debug\Dataplane\Sensor.baml
+D:\USTC\Wireless Charger\WSN_RECO_Alg\obj\Debug\ui\conts\ListControl.baml
+D:\USTC\Wireless Charger\WSN_RECO_Alg\obj\Debug\ui\MainWindow.baml
+D:\USTC\Wireless Charger\WSN_RECO_Alg\obj\Debug\db\NetwokImport.baml
+D:\USTC\Wireless Charger\WSN_RECO_Alg\obj\Debug\ui\UiAddNodes.baml
+D:\USTC\Wireless Charger\WSN_RECO_Alg\obj\Debug\db\UiExportTopology.baml
+D:\USTC\Wireless Charger\WSN_RECO_Alg\obj\Debug\db\UiImportTopology.baml
+D:\USTC\Wireless Charger\WSN_RECO_Alg\obj\Debug\ui\UIExpermentResults.baml
+D:\USTC\Wireless Charger\WSN_RECO_Alg\obj\Debug\ui\UiRandomNumberGeneration.baml
+D:\USTC\Wireless Charger\WSN_RECO_Alg\obj\Debug\ui\UiRecievedPackertsBySink.baml
+D:\USTC\Wireless Charger\WSN_RECO_Alg\obj\Debug\ui\UiRoutingDetailsLong.baml
+D:\USTC\Wireless Charger\WSN_RECO_Alg\obj\Debug\ui\UiSelectNodesWidthDistance.baml
+D:\USTC\Wireless Charger\WSN_RECO_Alg\obj\Debug\ui\UiShowLists.baml
+D:\USTC\Wireless Charger\WSN_RECO_Alg\obj\Debug\ui\UiShowRelatives.baml
+D:\USTC\Wireless Charger\WSN_RECO_Alg\obj\Debug\ui\UIshowSensorsLocations.baml
+D:\USTC\Wireless Charger\WSN_RECO_Alg\obj\Debug\Dataplane\BaseStation.g.cs
+D:\USTC\Wireless Charger\WSN_RECO_Alg\obj\Debug\Dataplane\Charger.g.cs
+D:\USTC\Wireless Charger\WSN_RECO_Alg\obj\Debug\Dataplane\Sink.g.cs
+D:\USTC\Wireless Charger\WSN_RECO_Alg\obj\Debug\ExpermentsResults\Energy consumptions\ExpReport.g.cs
+D:\USTC\Wireless Charger\WSN_RECO_Alg\obj\Debug\ExpermentsResults\Energy consumptions\Experments.g.cs
+D:\USTC\Wireless Charger\WSN_RECO_Alg\obj\Debug\Dataplane\Sensor.g.cs
+D:\USTC\Wireless Charger\WSN_RECO_Alg\obj\Debug\RingRouting\Ring.g.cs
+D:\USTC\Wireless Charger\WSN_RECO_Alg\obj\Debug\ui\conts\ListControl.g.cs
+D:\USTC\Wireless Charger\WSN_RECO_Alg\obj\Debug\ui\MainWindow.g.cs
+D:\USTC\Wireless Charger\WSN_RECO_Alg\obj\Debug\db\NetwokImport.g.cs
+D:\USTC\Wireless Charger\WSN_RECO_Alg\obj\Debug\ui\UiAddNodes.g.cs
+D:\USTC\Wireless Charger\WSN_RECO_Alg\obj\Debug\db\UiExportTopology.g.cs
+D:\USTC\Wireless Charger\WSN_RECO_Alg\obj\Debug\db\UiImportTopology.g.cs
+D:\USTC\Wireless Charger\WSN_RECO_Alg\obj\Debug\ui\UIExpermentResults.g.cs
+D:\USTC\Wireless Charger\WSN_RECO_Alg\obj\Debug\ui\UiRandomNumberGeneration.g.cs
+D:\USTC\Wireless Charger\WSN_RECO_Alg\obj\Debug\ui\UiRecievedPackertsBySink.g.cs
+D:\USTC\Wireless Charger\WSN_RECO_Alg\obj\Debug\ui\UiRoutingDetailsLong.g.cs
+D:\USTC\Wireless Charger\WSN_RECO_Alg\obj\Debug\ui\UiSelectNodesWidthDistance.g.cs
+D:\USTC\Wireless Charger\WSN_RECO_Alg\obj\Debug\ui\UiShowLists.g.cs
+D:\USTC\Wireless Charger\WSN_RECO_Alg\obj\Debug\ui\UiShowRelatives.g.cs
+D:\USTC\Wireless Charger\WSN_RECO_Alg\obj\Debug\ui\UiShowRelativityForAnode.g.cs
+D:\USTC\Wireless Charger\WSN_RECO_Alg\obj\Debug\ui\UIshowSensorsLocations.g.cs
+D:\USTC\Wireless Charger\WSN_RECO_Alg\obj\Debug\App.g.cs
+D:\USTC\Wireless Charger\WSN_RECO_Alg\obj\Debug\RR_MarkupCompile.cache
+D:\USTC\Wireless Charger\WSN_RECO_Alg\obj\Debug\RR_MarkupCompile.lref
+D:\USTC\Wireless Charger\WSN_RECO_Alg\obj\Debug\Dataplane\Charger.baml
+D:\USTC\Wireless Charger\WSN_RECO_Alg\obj\Debug\RingRouting\Ring.baml
+D:\USTC\Wireless Charger\WSN_RECO_Alg\obj\Debug\ui\UiShowRelativityForAnode.baml
+D:\USTC\Wireless Charger\WSN_RECO_Alg\obj\Debug\RR.g.resources
+D:\USTC\Wireless Charger\WSN_RECO_Alg\obj\Debug\RR.Properties.Resources.resources
+D:\USTC\Wireless Charger\WSN_RECO_Alg\obj\Debug\RECO.csproj.GenerateResource.cache
+D:\USTC\Wireless Charger\WSN_RECO_Alg\obj\Debug\RECO.csproj.CoreCompileInputs.cache
+D:\USTC\Wireless Charger\WSN_RECO_Alg\obj\Debug\RECO.csproj.CopyComplete
+D:\USTC\Wireless Charger\WSN_RECO_Alg\obj\Debug\RR.exe
+D:\USTC\Wireless Charger\WSN_RECO_Alg\obj\Debug\RR.pdb
+D:\USTC\Wireless Charger\recoDataRouting\WSN_RECO_Alg\bin\Debug\RR.exe.config
+D:\USTC\Wireless Charger\recoDataRouting\WSN_RECO_Alg\bin\Debug\RR.exe
+D:\USTC\Wireless Charger\recoDataRouting\WSN_RECO_Alg\bin\Debug\RR.pdb
+D:\USTC\Wireless Charger\recoDataRouting\WSN_RECO_Alg\obj\Debug\RECO.csproj.AssemblyReference.cache
+D:\USTC\Wireless Charger\recoDataRouting\WSN_RECO_Alg\obj\Debug\RECO.csproj.SuggestedBindingRedirects.cache
+D:\USTC\Wireless Charger\recoDataRouting\WSN_RECO_Alg\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\USTC\Wireless Charger\recoDataRouting\WSN_RECO_Alg\obj\Debug\RECO.csproj.ResolveComReference.cache
+D:\USTC\Wireless Charger\recoDataRouting\WSN_RECO_Alg\obj\Debug\Dataplane\BaseStation.baml
+D:\USTC\Wireless Charger\recoDataRouting\WSN_RECO_Alg\obj\Debug\Dataplane\Sink.baml
+D:\USTC\Wireless Charger\recoDataRouting\WSN_RECO_Alg\obj\Debug\ExpermentsResults\Energy consumptions\ExpReport.baml
+D:\USTC\Wireless Charger\recoDataRouting\WSN_RECO_Alg\obj\Debug\ExpermentsResults\Energy consumptions\Experments.baml
+D:\USTC\Wireless Charger\recoDataRouting\WSN_RECO_Alg\obj\Debug\Dataplane\Sensor.baml
+D:\USTC\Wireless Charger\recoDataRouting\WSN_RECO_Alg\obj\Debug\ui\conts\ListControl.baml
+D:\USTC\Wireless Charger\recoDataRouting\WSN_RECO_Alg\obj\Debug\ui\MainWindow.baml
+D:\USTC\Wireless Charger\recoDataRouting\WSN_RECO_Alg\obj\Debug\db\NetwokImport.baml
+D:\USTC\Wireless Charger\recoDataRouting\WSN_RECO_Alg\obj\Debug\ui\UiAddNodes.baml
+D:\USTC\Wireless Charger\recoDataRouting\WSN_RECO_Alg\obj\Debug\db\UiExportTopology.baml
+D:\USTC\Wireless Charger\recoDataRouting\WSN_RECO_Alg\obj\Debug\db\UiImportTopology.baml
+D:\USTC\Wireless Charger\recoDataRouting\WSN_RECO_Alg\obj\Debug\ui\UIExpermentResults.baml
+D:\USTC\Wireless Charger\recoDataRouting\WSN_RECO_Alg\obj\Debug\ui\UiRandomNumberGeneration.baml
+D:\USTC\Wireless Charger\recoDataRouting\WSN_RECO_Alg\obj\Debug\ui\UiRecievedPackertsBySink.baml
+D:\USTC\Wireless Charger\recoDataRouting\WSN_RECO_Alg\obj\Debug\ui\UiRoutingDetailsLong.baml
+D:\USTC\Wireless Charger\recoDataRouting\WSN_RECO_Alg\obj\Debug\ui\UiSelectNodesWidthDistance.baml
+D:\USTC\Wireless Charger\recoDataRouting\WSN_RECO_Alg\obj\Debug\ui\UiShowLists.baml
+D:\USTC\Wireless Charger\recoDataRouting\WSN_RECO_Alg\obj\Debug\ui\UiShowRelatives.baml
+D:\USTC\Wireless Charger\recoDataRouting\WSN_RECO_Alg\obj\Debug\ui\UIshowSensorsLocations.baml
+D:\USTC\Wireless Charger\recoDataRouting\WSN_RECO_Alg\obj\Debug\Dataplane\BaseStation.g.cs
+D:\USTC\Wireless Charger\recoDataRouting\WSN_RECO_Alg\obj\Debug\Dataplane\Charger.g.cs
+D:\USTC\Wireless Charger\recoDataRouting\WSN_RECO_Alg\obj\Debug\Dataplane\Sink.g.cs
+D:\USTC\Wireless Charger\recoDataRouting\WSN_RECO_Alg\obj\Debug\ExpermentsResults\Energy consumptions\ExpReport.g.cs
+D:\USTC\Wireless Charger\recoDataRouting\WSN_RECO_Alg\obj\Debug\ExpermentsResults\Energy consumptions\Experments.g.cs
+D:\USTC\Wireless Charger\recoDataRouting\WSN_RECO_Alg\obj\Debug\Dataplane\Sensor.g.cs
+D:\USTC\Wireless Charger\recoDataRouting\WSN_RECO_Alg\obj\Debug\RingRouting\Ring.g.cs
+D:\USTC\Wireless Charger\recoDataRouting\WSN_RECO_Alg\obj\Debug\ui\conts\ListControl.g.cs
+D:\USTC\Wireless Charger\recoDataRouting\WSN_RECO_Alg\obj\Debug\ui\MainWindow.g.cs
+D:\USTC\Wireless Charger\recoDataRouting\WSN_RECO_Alg\obj\Debug\db\NetwokImport.g.cs
+D:\USTC\Wireless Charger\recoDataRouting\WSN_RECO_Alg\obj\Debug\ui\UiAddNodes.g.cs
+D:\USTC\Wireless Charger\recoDataRouting\WSN_RECO_Alg\obj\Debug\db\UiExportTopology.g.cs
+D:\USTC\Wireless Charger\recoDataRouting\WSN_RECO_Alg\obj\Debug\db\UiImportTopology.g.cs
+D:\USTC\Wireless Charger\recoDataRouting\WSN_RECO_Alg\obj\Debug\ui\UIExpermentResults.g.cs
+D:\USTC\Wireless Charger\recoDataRouting\WSN_RECO_Alg\obj\Debug\ui\UiRandomNumberGeneration.g.cs
+D:\USTC\Wireless Charger\recoDataRouting\WSN_RECO_Alg\obj\Debug\ui\UiRecievedPackertsBySink.g.cs
+D:\USTC\Wireless Charger\recoDataRouting\WSN_RECO_Alg\obj\Debug\ui\UiRoutingDetailsLong.g.cs
+D:\USTC\Wireless Charger\recoDataRouting\WSN_RECO_Alg\obj\Debug\ui\UiSelectNodesWidthDistance.g.cs
+D:\USTC\Wireless Charger\recoDataRouting\WSN_RECO_Alg\obj\Debug\ui\UiShowLists.g.cs
+D:\USTC\Wireless Charger\recoDataRouting\WSN_RECO_Alg\obj\Debug\ui\UiShowRelatives.g.cs
+D:\USTC\Wireless Charger\recoDataRouting\WSN_RECO_Alg\obj\Debug\ui\UiShowRelativityForAnode.g.cs
+D:\USTC\Wireless Charger\recoDataRouting\WSN_RECO_Alg\obj\Debug\ui\UIshowSensorsLocations.g.cs
+D:\USTC\Wireless Charger\recoDataRouting\WSN_RECO_Alg\obj\Debug\App.g.cs
+D:\USTC\Wireless Charger\recoDataRouting\WSN_RECO_Alg\obj\Debug\RR_MarkupCompile.cache
+D:\USTC\Wireless Charger\recoDataRouting\WSN_RECO_Alg\obj\Debug\RR_MarkupCompile.lref
+D:\USTC\Wireless Charger\recoDataRouting\WSN_RECO_Alg\obj\Debug\Dataplane\Charger.baml
+D:\USTC\Wireless Charger\recoDataRouting\WSN_RECO_Alg\obj\Debug\RingRouting\Ring.baml
+D:\USTC\Wireless Charger\recoDataRouting\WSN_RECO_Alg\obj\Debug\ui\UiShowRelativityForAnode.baml
+D:\USTC\Wireless Charger\recoDataRouting\WSN_RECO_Alg\obj\Debug\RR.g.resources
+D:\USTC\Wireless Charger\recoDataRouting\WSN_RECO_Alg\obj\Debug\RR.Properties.Resources.resources
+D:\USTC\Wireless Charger\recoDataRouting\WSN_RECO_Alg\obj\Debug\RECO.csproj.GenerateResource.cache
+D:\USTC\Wireless Charger\recoDataRouting\WSN_RECO_Alg\obj\Debug\RECO.csproj.CoreCompileInputs.cache
+D:\USTC\Wireless Charger\recoDataRouting\WSN_RECO_Alg\obj\Debug\RECO.csproj.CopyComplete
+D:\USTC\Wireless Charger\recoDataRouting\WSN_RECO_Alg\obj\Debug\RR.exe
+D:\USTC\Wireless Charger\recoDataRouting\WSN_RECO_Alg\obj\Debug\RR.pdb
